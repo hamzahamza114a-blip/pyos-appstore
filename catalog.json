@@ -1,0 +1,9 @@
+[
+  {
+    "id": "os_clock",
+    "name": "Dijital Masa Saati",
+    "symbol": "⏰",
+    "desc": "Bulut üzerinden inen, anlık zamanı gösteren şık bir masaüstü widgetı.",
+    "download_url": "https://raw.githubusercontent.com/KULLANICI_ADIN/pyos-appstore/main/apps/os_clock.py"
+  }
+]
